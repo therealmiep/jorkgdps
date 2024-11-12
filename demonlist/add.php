@@ -37,10 +37,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 
 function sendToDiscordWebhook($demonio) {
-    $webhookUrl = 'https://discord.com/api/webhooks/1305330617897979934/a8WInET61cT7XncwPZKti4QIf27ABFIS-O6UhuxnmnPhxtGcFku-0Vd07JZgZwgprLQM'; // Reemplaza con tu URL de webhook
+    $webhookUrl = 'WEBHOOK_URL'; // Reemplaza con tu URL de webhook
 
     $embed = [
-        'title' => "¡Nuevo Demonio Añadido!",
+        'title' => "¡Nuevo Demon Añadido!",
         'color' => hexdec("FF5733"), // Color del embed en formato hexadecimal
         'fields' => [
             [
