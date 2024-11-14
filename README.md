@@ -1,7 +1,7 @@
 # gdpsWebsite
 This is a small project, it is a template for a website for a GDPS; it includes a Home and a Demon List.
 ## Installation
-### First
+### First of all...
 - Create a folder on **public_html** called **home**.
 - Upload the files of the repository in that folder.
 - Open **config.php** and fill it in with the information that is asked of you.
