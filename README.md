@@ -8,7 +8,7 @@ This is a small project, it is a template for a website for a GDPS; it includes 
 - Save it.
 ### Demon List
 - Go to **./home/demonlist/** and open **users.php**, here you can add accounts that can modify the Demon List.
-- Sabe it.
+- Save it.
 
 ## Support
 - If you have problems in the installation or have problems or questions, you can tell me on Discord. My user is **@ismaxe**.
