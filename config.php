@@ -2,7 +2,7 @@
 // Web info
 $gdpsTitle = 'JORK GDPS tools'; // Title of the web.
 $webTitle = 'Geometry Dash'; // Example image: https://acortar.link/axgSFq
-$gdpsLink = 'https://jorksgdps.ps.fhgdps.com/dashboard/'; // Link you'll be redirected to if you tap on the title.
+$gdpsLink = 'https://jorksgdps.ps.fhgdps.com/'; // Link you'll be redirected to if you tap on the title.
 $gdpsIcon = '../dashboard/icon.png'; // Icon to be displayed on the web. It can be a link.
 $info = 'welcome to the best gdps ever';  // Description for embed (e.g., Discord).
 
